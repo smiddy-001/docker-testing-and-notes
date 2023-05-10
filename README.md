@@ -12,8 +12,6 @@ Install Docker at https://docs.docker.com/get-docker/
 If possible install the docker desktop app at https://www.docker.com/products/docker-desktop/
 Install The Docker vsc extension / vim package / you get the idea 
 
-
-
 ## Dockerfile
 Is located in the root of the project
 
